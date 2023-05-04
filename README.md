@@ -56,3 +56,5 @@ py -m pip install PyDrive <br />
 После того как все файлы были скачаны и установлены в нужное место, можно открывать нашу API через cmd <br />
 -Введите команду py -m streamlit run weather.py <br />
 Streamlit может попросить ваш mail, но вводить его не обязательно, просто нажимаете Enter и API должна открыться в браузере установленном по умолчанию.
+
+![]("https://s387vla.storage.yandex.net/rdisk/f4f655c6533ec702e67b38705fdbacfb9b0c8bbbe3970ee73b6ae2fe71ec51a9/6453ad7d/JzBWh1hQE7F-O0fyAXlcRmdWxXfE-0eZcnPIlzxk4JxjVS5icwMUqozC6fWhQvmhlFVfXAOxuzMbSqF7vekceA==?uid=994779722&filename=Weather%20report.gif&disposition=inline&hash=&limit=0&content_type=image%2Fgif&owner_uid=994779722&fsize=18164466&hid=b52a8c38515a142b4f6002845bf89651&media_type=image&tknv=v2&etag=6c4ed71ad1ad2e002de9c1051eee4265&rtoken=xcUTRB6L9es6&force_default=yes&ycrid=na-709ec41500e51f5488b9ce1d5dc7e7a4-downloader8e&ts=5faddd1f89940&s=060520dbb0f2873f86f456569b503a041569a1b4dd4f3147846171d6a730cad5&pb=U2FsdGVkX1-q1VuZts63BUsmZTreuDpGVcY-4gZ_gsRmpVwgEv1eep7rpuE7hryBlmaFKLuXxQR2sMLW9Vm0QXqarHk-wie1OFM19ofqjsw")
