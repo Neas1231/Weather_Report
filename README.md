@@ -56,5 +56,5 @@ py -m pip install PyDrive <br />
 После того как все файлы были скачаны и установлены в нужное место, можно открывать нашу API через cmd <br />
 -Введите команду py -m streamlit run weather.py <br />
 Streamlit может попросить ваш mail, но вводить его не обязательно, просто нажимаете Enter и API должна открыться в браузере установленном по умолчанию.
-
+## Пример работы веб приложения:
 ![Weather report (1)](https://user-images.githubusercontent.com/120177610/236161416-a881eec7-d87e-4b24-98e0-99e18eb04d52.gif)
