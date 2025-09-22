@@ -1,7 +1,0 @@
-streamlit==1.15.1
-pandas==1.1.4
-Pillow==8.2.0
-streamlit-on-Hover-tabs
-SciPy==1.9.3
-torch==2.0.0
-torchvision==0.15.1
