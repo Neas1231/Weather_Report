@@ -1,4 +1,4 @@
-# ___Weather Report___
+# *Weather Report*
 ### Weather image classification model
 Классификатор картинок 10 погодных условий и класса "Нет погоды"
 ## Описание полученных результатов
