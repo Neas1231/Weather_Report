@@ -1,0 +1,7 @@
+streamlit
+pandas
+Pillow
+streamlit-on-Hover-tabs
+torch
+torchvision
+PyDrive 
