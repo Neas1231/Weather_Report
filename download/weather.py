@@ -82,24 +82,3 @@ if uploaded_file is not None:
        if tabs == 'Все вместе':
            st.header(dictuar[int(preds.argmax())]) 
            st.image(image_copy)
-
-
-       if st.checkbox('Нажать если прогноз ложный'):
-            options = st.multiselect(
-            'Какая погода изображена на картинке?',
-            ['Ясно', 'Облачно', 'Туман', 'Мороз', 'Град', 'Молния', 'Нет погоды', 'Дождь', 'Радуга',
-                'Снег', 'Восход'], max_selections = 2)
-            if st.button('Подтвердить'):
-                # if 'Ясно' in options:
-                #     image_copy.save(os.getcwd() + r"/img.jpg")
-                #     gfile = drive.CreateFile({'parents': [{'id': '12CMiObhILGSVWFIg2hBp9zOBvwM8y3hX'}]})
-                #     gfile.SetContentFile(os.getcwd() + r"/img.jpg")
-                #     gfile.Upload()
-                # upload_file_list = ['1.jpg', '2.jpg']
-                # for upload_file in upload_file_list:
-                #     gfile = drive.CreateFile({'parents': [{'id': '1pzschX3uMbxU0lB5WZ6IlEEeAUE8MZ-t'}]})
-                #     # Read file and set it as the content of this instance.
-                #     gfile.SetContentFile(upload_file)
-                #     gfile.Upload()  # Upload the file.
-                st.success('Спасибо за обратную связь! Мы постараемся добавить вашу картинку в базу данных'
-                           ' и улучшить качество  нашей нейросети!', icon="✅")
